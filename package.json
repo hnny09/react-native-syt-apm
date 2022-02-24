@@ -2,7 +2,7 @@
 {
   "name": "react-native-apm",
   "version": "1.0.0",
-  "description": "",
+  "description": "syt apm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "hny09",
+  "license": "MIL",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
