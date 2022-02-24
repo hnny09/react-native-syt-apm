@@ -8,10 +8,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
     "react-native"
   ],
-  "author": "hny09",
-  "license": "MIL",
+  "author": {
+    "name": "hnny09",
+    "email": "643496623@qq.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git@github.com:hnny09/react-native-syt-apm.git"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
