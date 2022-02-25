@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.author             = { "hnny09" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/hnny09/react-native-syt-apm.git", :tag => "master" }
-  s.source_files  = " react-native-syt-apm/**/*.{h,m}"
+  s.source_files  = "react-native-syt-apm/ios/*.{h,m}"
   s.requires_arc = true
 
 
