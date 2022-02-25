@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
   s.author             = { "hnny09" => "author@domain.cn" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/hnny09/react-native-syt-apm.git", :tag => "master" }
-  s.source_files  = "ios/RNApm.{h,m}"
-  s.public_header_files = "ios/RNApm.h"
+  s.source_files  = "ios/*.{h,m}"
+  s.public_header_files = "ios/*.h"
   s.requires_arc = true
 
 
