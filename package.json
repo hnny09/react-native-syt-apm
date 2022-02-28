@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "description": "syt apm",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo no tests && exit 1"
   },
   "keywords": [
     "react-component",
@@ -24,6 +25,7 @@
     "type": "git",
     "url": "git@github.com:hnny09/react-native-syt-apm.git"
   },
+  "homepage": "https://github.com/hnny09/react-native-syt-apm",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"

@@ -3,7 +3,7 @@
 
 @implementation RNApm
 
-RCT_EXPORT_MODULE(react-native-apm)
+RCT_EXPORT_MODULE()
 
 - (dispatch_queue_t)methodQueue
 {

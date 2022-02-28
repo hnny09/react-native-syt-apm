@@ -5,7 +5,7 @@ const { RNApm } = NativeModules;
 
 export const printIOSLog = (message:string) => {
     if (Platform.OS === "ios") {
-      RNApm.printIOSLog(message);
+    //   RNApm.printIOSLog(message);
     }
 }
 
