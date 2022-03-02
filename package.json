@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-apm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "syt apm",
   "main": "index.js",
   "typings": "index.d.ts",
@@ -21,7 +20,7 @@
     "name": "hnny09",
     "email": "643496623@qq.com"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git@github.com:hnny09/react-native-syt-apm.git"
   },
