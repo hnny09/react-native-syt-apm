@@ -1,6 +1,6 @@
 {
   "name": "react-native-apm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "syt apm",
   "main": "index.js",
   "typings": "index.d.ts",
