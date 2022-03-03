@@ -35,15 +35,15 @@ function logout() {
   };
 
   /**
-    * 获取已设置的所有的关键属性
+    * Promise方式 获取已设置的所有的关键属性
     */
-  function allUserValues() {
+   async function allUserValues() {
     if(RNApm && RNApm.allUserValues) {
-      // try {
-      //   return await RNApm.allUserValues();
-      // } catch (e) {
-        console.log("bbb");
-      // }
+      try {
+        return await RNApm.allUserValues();
+      } catch (e) {
+        console.log("allUserValues 出错了");
+      }
     } else {
       console.log("Native 未实现allUserValues");
     }
